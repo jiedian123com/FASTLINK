@@ -7,8 +7,8 @@
 FastLink，提供Shadowsocks协议和V2Ray协议翻墙机场节点，支持一键导入支持Clash、Shadowrocket、小火箭等翻墙插件。
 
 ## FastLink优惠码
-大哥云优惠码：
-大哥云优惠码说明：
+FastLink优惠码：
+FastLink优惠码说明：
 
 ## FastLink优惠套餐
 
